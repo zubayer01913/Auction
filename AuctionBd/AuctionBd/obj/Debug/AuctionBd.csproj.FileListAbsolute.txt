@@ -1,0 +1,721 @@
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\AuctionBd.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\EntityFramework.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Owin.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\WebGrease.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\EntityFramework.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+c:\users\zubayer01913\documents\visual studio 2013\Projects\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\AuctionBd.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\EntityFramework.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\WebGrease.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\EntityFramework.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\AuctionBd.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\EntityFramework.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\WebGrease.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\EntityFramework.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+I:\Web_My_work\VERSITY PROJECT\Edit\2\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\AuctionBd.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\EntityFramework.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Owin.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\WebGrease.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\EntityFramework.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+C:\Users\zubayer01913\Desktop\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\AuctionBd.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\EntityFramework.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Owin.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\WebGrease.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\EntityFramework.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+I:\Web_My_work\VERSITY PROJECT\fillan\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\AuctionBd.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\EntityFramework.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Owin.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\WebGrease.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\EntityFramework.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+C:\Users\Oasik\Desktop\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\AuctionBd.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\EntityFramework.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Owin.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\WebGrease.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\EntityFramework.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+C:\Users\Oasik\Desktop\filan]\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\AuctionBd.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\EntityFramework.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Owin.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\WebGrease.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\EntityFramework.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+C:\Users\Oasik\Desktop\filan]\Final\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\AuctionBd.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\EntityFramework.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Owin.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\WebGrease.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\EntityFramework.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.Migrations.InitialCreate.resources
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csproj.GenerateResource.Cache
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.Migrations.z1.resources
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.Migrations.z2.resources
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.Migrations.z3.resources
+C:\Users\Oasik\Documents\Visual Studio 2013\Projects\latest new\AuctionBd\AuctionBd\obj\Debug\AuctionBd.Migrations.z4.resources
+H:\auction\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+H:\auction\AuctionBd\AuctionBd\bin\AuctionBd.dll
+H:\auction\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+H:\auction\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+H:\auction\AuctionBd\AuctionBd\bin\EntityFramework.dll
+H:\auction\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+H:\auction\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+H:\auction\AuctionBd\AuctionBd\bin\Owin.dll
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+H:\auction\AuctionBd\AuctionBd\bin\WebGrease.dll
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+H:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+H:\auction\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+H:\auction\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+H:\auction\AuctionBd\AuctionBd\bin\EntityFramework.xml
+H:\auction\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+H:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+H:\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+H:\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+J:\auction\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+J:\auction\AuctionBd\AuctionBd\bin\AuctionBd.dll
+J:\auction\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+J:\auction\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+J:\auction\AuctionBd\AuctionBd\bin\EntityFramework.dll
+J:\auction\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+J:\auction\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+J:\auction\AuctionBd\AuctionBd\bin\Owin.dll
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+J:\auction\AuctionBd\AuctionBd\bin\WebGrease.dll
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+J:\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+J:\auction\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+J:\auction\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+J:\auction\AuctionBd\AuctionBd\bin\EntityFramework.xml
+J:\auction\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+J:\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+J:\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+J:\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\AuctionBd.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\EntityFramework.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Owin.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\WebGrease.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\EntityFramework.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+I:\Web_My_work\VERSITY PROJECT\Final project of auction\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\AuctionBd.dll.config
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\AuctionBd.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\AuctionBd.pdb
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Antlr3.Runtime.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\EntityFramework.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Web.Infrastructure.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Newtonsoft.Json.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Owin.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.Helpers.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.Mvc.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.Optimization.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.Razor.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\WebGrease.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.Helpers.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.Mvc.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.Optimization.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.Razor.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Deployment.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\System.Web.WebPages.Razor.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Antlr3.Runtime.pdb
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Newtonsoft.Json.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\EntityFramework.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\EntityFramework.SqlServer.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Google.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.csprojResolveAssemblyReference.cache
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.dll
+I:\Web_My_work\Asp.net MVC Work\Final project of auction\latest project\auction\AuctionBd\AuctionBd\obj\Debug\AuctionBd.pdb

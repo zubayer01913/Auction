@@ -1,0 +1,123 @@
+﻿
+<style type="text/css">
+    .showbox {
+        float: left;
+        margin: 4em 1em;
+        width: 300px;
+        height: 170px;
+        border: 2px solid green;
+        background-color: #fff;
+        line-height: 10px;
+        text-align: center;
+        -webkit-transition: 1s ease-in-out;
+        -moz-transition: 1s ease-in-out;
+        -o-transition: 1s ease-in-out;
+        transition: 1s ease-in-out;
+    }
+
+        .showbox.slideright:hover {
+            -webkit-transform: scale(1.20);
+            -moz-transform: scale(1.20);
+            -o-transform: scale(1.20);
+            -ms-transform: scale(1.20);
+            transform: scale(1.20);
+        }
+
+
+    .image {
+        background-image: url('../Image/1.jpg');
+        background-repeat: no-repeat;
+        margin-top: 0px;
+        height: 233px;
+        width: 282px;
+    }
+
+    .image1 {
+        background-image: url('../Image/2.jpg');
+        background-repeat: no-repeat;
+        margin-top: 0px;
+        height: 233px;
+        width: 572px;
+    }
+
+    .image2 {
+        background-image: url('../Image/3.jpg');
+        background-repeat: no-repeat;
+        margin-top: 0px;
+        height: 225px;
+        width: 378px;
+    }
+
+    .image3 {
+        background-image: url('../Image/logo.png');
+        background-repeat: no-repeat;
+        margin-top: 0px;
+        height: 225px;
+    }
+
+    .image4 {
+        background-image: url('../Image/1.jpg');
+        background-repeat: no-repeat;
+        margin-top: 0px;
+        height: 225px;
+    }
+
+    .image5 {
+        background-image: url('../Image/5.jpg');
+        background-repeat: no-repeat;
+        margin-top: 0px;
+        height: 225px;
+        width: 378px;
+    }
+
+    .image6 {
+        background-image: url('../Image/4.jpg');
+        background-repeat: no-repeat;
+        margin-top: 0px;
+        height: 225px;
+        width: 570px;
+    }
+</style>
+
+
+<div class="container-fluid">
+    <div class="container text-justify">
+        <div class="row ">
+            <div class="col-xs-12 col-sm-3 col-sm-offset-2">
+                <a href="@Url.Action("Index", "Home")">
+                    <div class="showbox slideright image"></div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-7">
+                <a href="@Url.Action("About", "Home")">
+                    <div class="showbox slideright image1"></div>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-4 col-sm-offset-4">
+                <a href="@Url.Action("Index", "Auctions")">
+                    <div class="showbox slideright image2"></div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-4">
+                <a href="@Url.Action("Create", "Contacts")">
+                    <div class="showbox slideright image3"></div>
+                </a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-sm-4">
+                <div class="showbox slideright image5"></div>
+            </div>
+            <div class="col-xs-12 col-sm-5">
+                <a href="@Url.Action("Contact", "Home")">
+                    <div class="showbox slideright image6"></div>
+                </a>
+            </div>
+            <div class="col-xs-12 col-sm-3">
+
+            </div>
+        </div>
+    </div>
+</div>

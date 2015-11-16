@@ -1,0 +1,110 @@
+﻿@model IEnumerable<AuctionBd.Models.Auction>
+@using Microsoft.AspNet.Identity
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+    @Html.ActionLink("Create New", "Create")
+
+    <div class="container" style="padding-bottom:20px;padding-top:20px">
+    @using (Html.BeginForm())
+    {
+        <div class="row">
+            <div class="col-sm-3">
+                Category List: @Html.DropDownList("auctionCategory", "All")
+            </div>
+            <div class="col-sm-3" style="padding-bottom:0px">
+                @Html.TextBox("SearchString", null, new { @class = "form-control" })
+            </div>
+            <div class="col-sm-6">
+                <button class="btn btn-danger" type="submit" value="Filter">Submit Button</button>
+            </div>
+        </div>
+
+    }
+</div>
+
+
+
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Category)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Description)
+        </th>
+        <th>
+            <a href="@Html.DisplayNameFor(model => model.ImageUrl)">Images</a>
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CurrentPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Category)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            <a href="@Html.DisplayFor(modelItem => item.ImageUrl)">Images</a>
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CurrentPrice)
+        </td>
+        <td>
+
+            @if (User.Identity.GetUserName() == "zubayer01913@gmail.com")
+            {
+
+                <botton class=" btn btn-default btn-xs"> @Html.ActionLink("Edit", "Edit", new { id = item.Id }) </botton>
+                <botton class=" btn btn-default btn-xs"> @Html.ActionLink("Details", "Details", new { id = item.Id }) </botton>
+                <botton class=" btn btn-default btn-xs"> @Html.ActionLink("Delete", "Delete", new { id = item.Id })</botton>
+                <botton class=" btn btn-default btn-xs"> @Html.ActionLink("Bid", "Auction", new { id = item.Id }) </botton>
+            }
+
+            else
+            {
+                <botton class=" btn btn-default btn-xs"> @Html.ActionLink("Details", "Details", new { id = item.Id })</botton>
+                <botton class=" btn btn-default btn-xs"> @Html.ActionLink("Bid", "Auction", new { id = item.Id })</botton>
+            }
+
+</td>
+    </tr>
+}
+
+</table>
